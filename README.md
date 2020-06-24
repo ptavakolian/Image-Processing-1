@@ -5,6 +5,7 @@ Here a set of operation is applied on the thermal images of an art sample to enh
 This project explores different image enhancement libraries in python for thermal images captured in CADIPT by the author
 
 Author: Pantea Tavakolian, Ph.D.
+
 CADIPT Lab: https://cadipt.mie.utoronto.ca/
 
 We collected thermal images from different samples acquired and stored by Enhanced Truncated-correlation Photothermal Coherence Tomography. 
